@@ -19,7 +19,6 @@ profile:
     align: right
     image: zesch.png
     email: torsten.zesch@fernuni-hagen.de
-    twitter: TorstenZesch
     github: zesch
     address: >
         Universitätsstr. 27 – PRG / Gebäude 5<br /> 
