@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://localhost:4000/website/sitemap.xml
+Sitemap: https://catalpa-cl.github.io/website/sitemap.xml
